@@ -1,3 +1,27 @@
+<table border="1">
+	<h2>Lista de Produtos</h2>
+    <tr>
+	<td>Produto</td>
+	<td>Preço</td>
+	<td>Quantidade em Estoque</td>
+    </tr>
+    <tr>
+	<td>Notebook</td>
+	<td>R$ 3.500,00</td>
+	<td>12</td>
+	
+    </tr>
+    <tr>
+	<td>Mouse Gamer</td>
+	<td>R$ 120,00</td>
+	<td>30</td>
+    </tr>
+    <tr>
+	<td>Teclado Mecanico</td>
+	<td>R$ 280,00</td>
+	<td>20</td>
+    </tr>
+</table>
 <h2>Formulario de Pedido</h2>
 <form action="pedido.html" method="post">
 	<label for="cliente">Nome do Cliente:</label><br>
